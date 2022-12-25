@@ -59,7 +59,7 @@ body {
 
 .col-09 {
     width: 75%;
-    background-color: rgb(154, 154, 217);
+    background-color: pink;
 }
 
 .footer {
@@ -71,12 +71,6 @@ body {
     bottom: 0;
 }
 
-#lijstje {
-    padding-right: 15px;
-
+#artikelen {
+    
 }
-
-/* #artikelen {
-    background-color: rgb(154, 154, 217);
-    padding-right: 5px;
-} */
