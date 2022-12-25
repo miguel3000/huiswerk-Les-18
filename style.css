@@ -4,6 +4,7 @@
         height: auto;
         float: left;
         padding: 15px;
+        margin-top: 15px;
     }
 }
 
@@ -58,6 +59,7 @@ body {
 
 .col-09 {
     width: 75%;
+    background-color: rgb(154, 154, 217);
 }
 
 .footer {
@@ -74,7 +76,7 @@ body {
 
 }
 
-#artikelen {
+/* #artikelen {
     background-color: rgb(154, 154, 217);
     padding-right: 5px;
-}
+} */
